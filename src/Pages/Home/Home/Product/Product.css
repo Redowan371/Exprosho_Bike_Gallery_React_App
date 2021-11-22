@@ -1,0 +1,17 @@
+.reg-btn {
+  background: linear-gradient(
+    to right,
+    rgba(70, 115, 113, 0.8),
+    rgba(70, 115, 113, 10)
+  );
+  color: #fff;
+  outline: none;
+  border: none;
+  padding: 8px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.product-btn {
+  text-align: right;
+}

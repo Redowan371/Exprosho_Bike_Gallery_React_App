@@ -1,0 +1,13 @@
+.c-img img {
+  padding: 10px;
+  width: 100%;
+  height: 350px;
+}
+.c-item {
+  text-align: center;
+}
+.carousel-indicators [data-bs-target] {
+  background: #467371 !important;
+  border-radius: 50%;
+  width: 10px !important;
+}

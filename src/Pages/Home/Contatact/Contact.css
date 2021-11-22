@@ -1,0 +1,24 @@
+.contact-form {
+  padding-right: 24px;
+}
+.contact-form input,
+textarea {
+  outline: none;
+  border: none;
+  background: #f2f2f2;
+  border-radius: 5px;
+}
+.btn-regular {
+  padding: 4px 20px;
+  margin-top: 4px;
+  background: black;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.contact-text {
+  padding-left: 24px;
+}

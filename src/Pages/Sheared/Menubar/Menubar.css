@@ -1,0 +1,47 @@
+.logo img {
+  height: 50px;
+  width: 150px;
+}
+.logo-bg {
+  background: #467371 !important;
+}
+.login-information img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.log-btn {
+  background-color: transparent;
+  display: flex;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.logo-img {
+  height: 60px;
+  width: 150px;
+}
+.link-item {
+  padding-right: 20px;
+  color: white;
+  transition: all ease-in-out 1s;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.link-item:hover {
+  color: red;
+}
+.banner-img {
+  height: 400px !important;
+}
+
+.navbar-dark .navbar-toggler {
+  color: black !important;
+  border-color: black !important;
+}
+/* .navbar-dark .navbar-toggler-icon {
+  background-image: url(../../../images/list.png) !important;
+} */

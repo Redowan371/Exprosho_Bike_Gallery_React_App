@@ -1,0 +1,56 @@
+.footer {
+  background: #467371;
+  color: white;
+  text-align: center;
+}
+.footer-input input {
+  border: none;
+  margin-top: 10px;
+  background: transparent;
+  border-bottom: 1px solid #eee;
+}
+.footer-input ::placeholder {
+  color: #fff;
+}
+.footer-input :focus {
+  border: none;
+  margin-top: 10px;
+  background: transparent;
+  border-bottom: 1px solid #eee !important;
+  outline: none !important;
+  color: #fff;
+}
+.footer hr {
+  color: white;
+  border: 2px solid #eee;
+}
+.footer-btn {
+  margin-bottom: 5px;
+  background-color: #ed2024;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  border: 2px solid #ed2024;
+  transition: all ease-in-out 0.5s;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+.footer-btn:hover {
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #ed2024;
+}
+.facebook,
+.youtube,
+.twitter,
+.instrgram {
+  background: red;
+  margin-right: 5px;
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  line-height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid red;
+}

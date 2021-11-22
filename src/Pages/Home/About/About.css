@@ -1,0 +1,45 @@
+.about-text {
+  background-image: linear-gradient(
+      rgba(70, 115, 113, 0.9),
+      rgba(70, 115, 113, 0.9)
+    ),
+    url(../../../images/about.png);
+  background-position: center;
+  background-size: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.about-text h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+.about-text p {
+  color: #fff;
+  padding: 15px 0;
+}
+.about-service-text {
+  background-color: #467371;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+.title span {
+  background: #467371;
+  color: #fff;
+  display: inline-block;
+  padding: 4px 24px;
+  clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+.about-service-img img {
+  height: 40px;
+  width: 100%;
+}
+.rating-input {
+  width: 200px;
+  padding: 5px 0;
+}
